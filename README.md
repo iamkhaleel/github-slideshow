@@ -1,13 +1,16 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# simpleapp
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+A new Flutter project.
 
-Oh! I haven't introduced myself...
+## Getting Started
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+This project is a starting point for a Flutter application.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+A few resources to get you started if this is your first Flutter project:
 
-I'll meet you over there, can't wait to get started!
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
